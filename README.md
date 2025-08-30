@@ -1,2 +1,290 @@
-# Desperte-sua-melhor-vers-o.
-"Desperte Sua Melhor Versão: Um guia prático para transformar sua vida! 🚀 Aprenda a eliminar a procrastinação, criar hábitos poderosos e conquistar a autoconfiança que você sempre quis. Não é teoria, é prática para aplicar hoje mesmo!"
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Desperte Sua Melhor Versão — Estratégias Profissionais</title>
+  <meta name="description" content="Ebook profissional: autoconhecimento, produtividade, liderança, resiliência e inovação. Plano de ação, exercícios e bônus práticos.">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --bg:#0b1220; --card:#071022; --brand:#ff6a00; --accent:#ffd7b0; --muted:#9fb0d0; --text:#eaf0ff;
+      --radius:14px;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;background:linear-gradient(180deg,#071226 0%,#071329 100%);font-family:Inter,system-ui,Segoe UI,Roboto,Arial;color:var(--text);-webkit-font-smoothing:antialiased}
+    a{color:inherit}
+    .container{max-width:1100px;margin:0 auto;padding:28px}
+    header.hero{display:grid;grid-template-columns:1fr 420px;gap:28px;align-items:center;padding:40px 0}
+    .tag{display:inline-block;background:rgba(255,106,0,.12);padding:8px 12px;border-radius:999px;color:var(--accent);font-weight:700;font-size:13px}
+    h1{font-size:36px;line-height:1.04;margin:12px 0;color:#fff}
+    p.lead{color:var(--muted);font-size:16px;margin:8px 0 18px}
+    .hero-ctas{display:flex;gap:12px;flex-wrap:wrap;margin-top:14px}
+    .btn{background:var(--brand);color:#fff;padding:14px 20px;border-radius:12px;font-weight:800;text-decoration:none;box-shadow:0 12px 30px rgba(255,106,0,.16)}
+    .btn.secondary{background:transparent;border:1px solid rgba(255,255,255,.06);color:var(--text);padding:12px 18px}
+    .price{font-weight:900;color:var(--accent);font-size:20px;display:block;margin-top:8px}
+    .cover{width:100%;max-width:360px;border-radius:12px;display:block;margin:0 auto;box-shadow:0 18px 50px rgba(0,0,0,.6)}
+    /* CAPTURE BOX */
+    .capture{background:linear-gradient(180deg, rgba(255,106,0,.06), rgba(255,106,0,.02));padding:18px;border-radius:12px;border:1px solid rgba(255,255,255,.04)}
+    .form-row{display:flex;gap:8px;margin-top:12px}
+    input[type="text"], input[type="email"]{flex:1;padding:12px;border-radius:10px;border:1px solid rgba(255,255,255,.06);background:transparent;color:var(--text)}
+    .small{font-size:13px;color:var(--muted)}
+    /* SECTIONS */
+    section{padding:36px 0;border-top:1px solid rgba(255,255,255,.03)}
+    h2{font-size:26px;margin:0 0 12px}
+    .grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+    .card{background:var(--card);border-radius:12px;padding:18px;border:1px solid rgba(255,255,255,.03)}
+    .card h3{margin:4px 0 10px}
+    ul.clean{padding-left:18px;color:var(--muted)}
+    .highlight{background:rgba(255,106,0,.06);padding:14px;border-radius:12px;border:1px solid rgba(255,106,0,.06);color:var(--accent)}
+    /* testimonials */
+    .testi{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+    .quote{background:#071428;padding:16px;border-radius:12px;border:1px solid rgba(255,255,255,.03)}
+    .quote strong{display:block;margin-bottom:8px}
+    .author{color:var(--muted);font-size:13px;margin-top:8px}
+    /* bonus row */
+    .bonus-row{display:flex;gap:12px;flex-wrap:wrap}
+    .bonus{flex:1;min-width:220px;background:linear-gradient(180deg,#061225,#071428);padding:16px;border-radius:12px;border:1px solid rgba(255,255,255,.03)}
+    /* timer */
+    .timer{display:inline-block;background:rgba(255,106,0,.08);padding:12px 16px;border-radius:10px;font-weight:800;color:var(--accent);margin-top:8px}
+    /* faq */
+    details{background:#071429;padding:14px;border-radius:10px;border:1px solid rgba(255,255,255,.03);margin:10px 0}
+    summary{cursor:pointer;font-weight:700}
+    footer{padding:32px 0;text-align:center;color:var(--muted);font-size:13px}
+    /* responsive */
+    @media (max-width:1000px){
+      header.hero{grid-template-columns:1fr}
+      .grid-3,.testi{grid-template-columns:1fr}
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- HERO -->
+    <header class="hero">
+      <div>
+        <span class="tag">EBOOK • ALTO DESEMPENHO</span>
+        <h1>Desperte Sua Melhor Versão — <span style="color:var(--accent)">Estratégias Profissionais</span> para Alcançar o Máximo Desempenho</h1>
+        <p class="lead">Guia completo com ferramentas práticas: autoconhecimento estratégico, gestão do tempo, comunicação assertiva, liderança inspiradora, resiliência emocional, inovação e aprendizado contínuo. Aplique hoje com exercícios e plano de ação.</p>
+
+        <!-- CTA ROW -->
+        <div class="hero-ctas">
+          <!-- primary buy -->
+          <a href="REPLACE_WITH_KIWIFY_URL" target="_blank" class="btn" id="buy-now-hero">Quero meu eBook agora</a>
+
+          <!-- small price -->
+          <div style="display:flex;flex-direction:column;justify-content:center">
+            <span class="price">De <del style="color:rgba(255,255,255,.28);font-weight:500">R$59,90</del> por <span style="color:var(--accent)">R$29,90</span></span>
+            <span class="small">Pagamento seguro • Acesso imediato</span>
+          </div>
+        </div>
+
+        <!-- capture -->
+        <div style="margin-top:18px" class="capture">
+          <div style="display:flex;justify-content:space-between;align-items:center">
+            <div>
+              <strong>Ganhe um bônus gratuito:</strong>
+              <div class="small">Baixe agora o <strong>Checklist 7 Dias</strong> para começar já (enviaremos no e-mail).</div>
+            </div>
+            <div class="timer" id="countdown-top">--:--:--</div>
+          </div>
+
+          <!-- FORM: Troque REPLACE_WITH_MAILER_ACTION pelo seu action do MailerLite/Mailchimp -->
+          <form id="lead-form" action="REPLACE_WITH_MAILER_ACTION" method="POST" style="margin-top:12px;display:flex;gap:8px;flex-wrap:wrap">
+            <input type="text" name="name" placeholder="Seu nome" required />
+            <input type="email" name="email" placeholder="Seu melhor e-mail" required />
+            <button class="btn" style="padding:12px 18px" type="submit">Quero o bônus grátis</button>
+          </form>
+          <div class="small" style="margin-top:8px">Seu e-mail é mantido em segurança. Você pode cancelar a qualquer momento.</div>
+        </div>
+
+      </div>
+
+      <div style="text-align:center">
+        <!-- CAPA do EBOOK -->
+        <img src="capa-ebook.png" alt="Capa Desperte Sua Melhor Versão" class="cover">
+        <div style="margin-top:12px;text-align:center">
+          <a href="REPLACE_WITH_KIWIFY_URL" target="_blank" class="btn" style="display:inline-block">Comprar por R$29,90</a>
+          <div class="small" style="margin-top:8px">Entrega imediata via Kiwify</div>
+        </div>
+      </div>
+    </header>
+
+    <!-- BENEFÍCIOS -->
+    <section>
+      <h2>Por que este e-book funciona?</h2>
+      <p class="lead">Porque une teoria com execução. Cada capítulo traz: conceito curto → ferramenta prática → exercício aplicável — tudo voltado para resultados profissionais e mensuráveis.</p>
+
+      <div class="grid-3" style="margin-top:18px">
+        <div class="card">
+          <h3>Plano prático e acionável</h3>
+          <p>Checklist, exercícios e templates para executar cada estratégia sem complicação.</p>
+        </div>
+        <div class="card">
+          <h3>Resultados rápidos</h3>
+          <p>Roteiro de 7 dias para gerar tração inicial e provas de progresso.</p>
+        </div>
+        <div class="card">
+          <h3>Foco na carreira</h3>
+          <p>Ferramentas testadas em ambiente corporativo para aumentar produtividade e influência.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- O QUE VOCÊ VAI APRENDER -->
+    <section>
+      <h2>Conteúdo completo (resumo por capítulo)</h2>
+      <div style="display:grid;gap:12px;margin-top:12px">
+        <div class="card"><strong>Prefácio:</strong> Contextualização para o mercado atual e como usar o ebook para evolução constante.</div>
+        <div class="card"><strong>Capítulo 1 — Autoconhecimento Estratégico:</strong> SWOT pessoal, Roda da Vida e 3 metas SMART para 6 meses. Exercícios passo a passo.</div>
+        <div class="card"><strong>Capítulo 2 — Gestão do Tempo:</strong> Matriz de Eisenhower, técnicas antiprocrastinação e planejamento diário estratégico.</div>
+        <div class="card"><strong>Capítulo 3 — Comunicação Assertiva:</strong> Escuta ativa, linguagem clara e scripts práticos para reuniões e feedbacks.</div>
+        <div class="card"><strong>Capítulo 4 — Liderança Inspiradora:</strong> Desenvolvimento de talentos, reconhecimento e plano de 1:1 para líderes.</div>
+        <div class="card"><strong>Capítulo 5 — Resiliência & IE:</strong> Técnicas de respiração, exercícios para foco sob pressão e mindset de crescimento.</div>
+        <div class="card"><strong>Capítulo 6 — Inovação & Criatividade:</strong> Brainstorming facilitado, filtros de boas ideias e execução ágil.</div>
+        <div class="card"><strong>Capítulo 7 — Aprendizado Contínuo:</strong> Curadoria de fontes, rotina de estudos e como compartilhar conhecimentos útilmente.</div>
+        <div class="card"><strong>Conclusão & Recursos:</strong> Livros recomendados, apps, planilhas e bônus para acelerar a aplicação.</div>
+      </div>
+    </section>
+
+    <!-- BÔNUS -->
+    <section>
+      <h2>Bônus ao comprar hoje</h2>
+      <p class="lead">Todos os compradores recebem 3 bônus para acelerar a aplicação prática:</p>
+      <div class="bonus-row" style="margin-top:12px">
+        <div class="bonus"><strong>Planner de Produtividade (PDF)</strong><div class="small">Semana e dia a dia prontos para aplicar as técnicas.</div></div>
+        <div class="bonus"><strong>Checklist 7 Dias</strong><div class="small">Roteiro diário que garante progresso real.</div></div>
+        <div class="bonus"><strong>Modelo de Metas SMART (Planilha)</strong><div class="small">Estruture metas com KPIs e prazos.</div></div>
+      </div>
+    </section>
+
+    <!-- PROVAS/DEPOIMENTOS (detalhados e curtos) -->
+    <section>
+      <h2>Depoimentos reais (exemplos profissionais)</h2>
+      <p class="lead">Veja relatos de quem aplicou as ferramentas e obteve resultados concretos.</p>
+
+      <div class="testi" style="margin-top:12px">
+        <div class="quote">
+          <strong>“Em 3 semanas, minha produtividade aumentou 40% — e bati a meta trimestral.”</strong>
+          <div class="author">— Aline Souza, Coordenadora de Vendas (São Paulo)</div>
+          <div class="small" style="margin-top:8px">Uso diário da Matriz de Eisenhower + checklist diário. As técnicas me tiraram da indecisão.</div>
+        </div>
+
+        <div class="quote">
+          <strong>“O plano de 7 dias mudou a rotina do meu time. Agora temos reuniões mais objetivas e entregas claras.”</strong>
+          <div class="author">— João Mendes, Analista de Dados (Curitiba)</div>
+          <div class="small" style="margin-top:8px">Implementei os scripts de feedback e as 1:1 semanais — engajamento subiu muito.</div>
+        </div>
+
+        <div class="quote">
+          <strong>“Conteúdo objetivo, aplicável e direto. Virou meu manual para liderança.”</strong>
+          <div class="author">— Camila Ribeiro, Product Designer (Porto Alegre)</div>
+          <div class="small" style="margin-top:8px">A seção de inovação ajudou nosso squad a priorizar ideias de forma prática.</div>
+        </div>
+      </div>
+
+      <!-- depoimentos longos -->
+      <div style="margin-top:18px;display:grid;gap:12px">
+        <div class="card">
+          <strong>Depoimento completo — Renan T., Gerente de Projetos</strong>
+          <p class="small" style="margin-top:8px;color:var(--muted)">“Eu vivia com tarefas acumuladas. Depois de seguir o plano do ebook, segmentei prioridades, apliquei blocos de foco e instrui o time a adotar 3 rituais semanais. Resultado: entregas cronometradas e redução de retrabalho. Recomendo para quem precisa de método para escalar desempenho.”</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- GARANTIA + CTA -->
+    <section style="text-align:center">
+      <h2>Garantia incondicional de 7 dias</h2>
+      <p class="lead">Se você não sentir progresso nas primeiras 2 semanas, solicite o reembolso diretamente pela Kiwify — sem perguntas. Seu risco é zero.</p>
+      <div style="margin-top:12px">
+        <a href="REPLACE_WITH_KIWIFY_URL" target="_blank" class="btn" style="margin-right:10px">Comprar agora — R$29,90</a>
+        <a href="#faq" class="btn secondary">Ver FAQ</a>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section id="faq">
+      <h2>Dúvidas frequentes</h2>
+      <details><summary>Como recebo o e-book?</summary><p>Após o pagamento via Kiwify, o download do PDF é liberado automaticamente e você recebe o link por e-mail.</p></details>
+      <details><summary>Posso acessar em qualquer dispositivo?</summary><p>Sim — o PDF é compatível com celular, tablet e computador.</p></details>
+      <details><summary>Tem garantia?</summary><p>Sim — garantia incondicional de 7 dias pela plataforma Kiwify.</p></details>
+      <details><summary>O conteúdo é prático?</summary><p>Sim — cada capítulo traz exercícios, checklists e modelos prontos para aplicar.</p></details>
+    </section>
+
+    <!-- AUTHOR + CTA -->
+    <section style="display:flex;gap:18px;align-items:center;flex-wrap:wrap">
+      <div style="flex:1;min-width:260px">
+        <h2>Sobre o autor</h2>
+        <p class="small">Autor especialista em produtividade e liderança, com experiência em times de alta performance. Atua treinando profissionais em empresas de tecnologia e consultoria. Este ebook reúne técnicas testadas em ambiente corporativo e adaptadas para profissionais de qualquer nível.</p>
+        <p style="margin-top:12px"><a href="REPLACE_WITH_KIWIFY_URL" target="_blank" class="btn">Quero meu eBook agora</a></p>
+      </div>
+
+      <div style="flex:1;min-width:260px">
+        <h3 style="margin:0 0 8px">Segurança & Entrega</h3>
+        <p class="small">Pagamento seguro via Kiwify, entrega automática do PDF e suporte via e-mail incluso. Bônus liberados automaticamente após compra.</p>
+        <div style="margin-top:12px">
+          <div class="small">Métodos de pagamento aceitos:</div>
+          <!-- ícones podem ser adicionados -->
+          <div style="margin-top:8px"><img src="" alt="" style="height:36px;opacity:.0"></div>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="small">© 2025 • Desperte Sua Melhor Versão • Todos os direitos reservados • <a href="REPLACE_WITH_KIWIFY_URL" style="color:var(--accent)">Comprar agora</a></div>
+    </footer>
+  </div>
+
+  <!-- SCRIPTS: contador e instruções -->
+  <script>
+    // 1) Contador regressivo — ajuste a data final aqui (YYYY, M-1, D, H, M, S)
+    // Exemplo: 7 dias a partir do deploy:
+    // const targetDate = new Date(Date.now() + 7*24*60*60*1000);
+    const targetDate = new Date(); targetDate.setDate(targetDate.getDate() + 7);
+
+    function updateCountdown() {
+      const now = new Date();
+      const diff = targetDate - now;
+      if (diff <= 0) {
+        document.getElementById('countdown-top').textContent = "Oferta encerrada";
+        return;
+      }
+      const h = Math.floor(diff / (1000*60*60));
+      const m = Math.floor((diff % (1000*60*60)) / (1000*60));
+      const s = Math.floor((diff % (1000*60)) / 1000);
+      document.getElementById('countdown-top').textContent = String(h).padStart(2,'0') + ":" + String(m).padStart(2,'0') + ":" + String(s).padStart(2,'0');
+    }
+    setInterval(updateCountdown,1000);
+    updateCountdown();
+
+    // 2) Form submission: o formulário atualmente aponta para "REPLACE_WITH_MAILER_ACTION".
+    // Para conectar com MailerLite / Mailchimp:
+    // - No MailerLite crie um formulário embutido (Embedded form) e copie a URL do action (ou script).
+    // - Substitua o atributo action do <form> pelo link fornecido.
+    // - Se usar o Mailchimp, atente-se ao nome dos campos (MERGE fields) que o Mailchimp espera.
+    // Exemplo: <form action="https://app.mailerlite.com/webforms/submit/XXXX" method="POST">
+
+    // 3) Ações do botão "buy-now-hero" apenas redirecionam para sua Sales Page/Checkout na Kiwify.
+    // Troque REPLACE_WITH_KIWIFY_URL pelo link obtido na Kiwify (p.ex. https://pay.kiwify.com.br/seu-ebook123).
+  </script>
+
+  <!-- Schema JSON-LD (produto) -->
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"Product",
+    "name":"Desperte Sua Melhor Versão — Estratégias Profissionais",
+    "image":["capa-ebook.png"],
+    "description":"Ebook prático de desenvolvimento profissional com exercícios, checklist e planos de ação.",
+    "brand":{"@type":"Brand","name":"Desperte Sua Melhor Versão"},
+    "offers": {
+      "@type":"Offer",
+      "url":"REPLACE_WITH_KIWIFY_URL",
+      "priceCurrency":"BRL",
+      "price":"29.90",
+      "availability":"https://schema.org/InStock"
+    }
+  }
+  </script>
+</body>
+</html>
